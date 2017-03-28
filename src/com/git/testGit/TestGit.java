@@ -7,4 +7,7 @@ public class TestGit {
     private void test() {
 
     }
+    public TestGit() {
+
+    }
 }
